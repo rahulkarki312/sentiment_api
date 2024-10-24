@@ -1,0 +1,3 @@
+first need to disable firewall from: 
+
+Windows Defender Firewall > Turn Windows Defender Firewall on or off > Turn off both private and public network off

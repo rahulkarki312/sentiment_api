@@ -1,0 +1,21 @@
+nepali response sample: 
+
+{
+    "text": "यो उत्पादन राम्रो छैन, अलिकति पनि सन्तुष्ट छैन।",
+    "preprocessing_steps": {
+        "special_characters_removed": "यो उत्पादन राम्रो छैन अलिकति पनि सन्तुष्ट छैन ",
+        "punctuation_removed": "यो उत्पादन राम्रो छैन अलिकति पनि सन्तुष्ट छैन ",
+        "nepali_numbers_removed": "यो उत्पादन राम्रो छैन अलिकति पनि सन्तुष्ट छैन ",
+        "tokens": ["यो", "उत्पादन", "राम्रो", "छैन", "अलिकति", "पनि", "सन्तुष्ट", "छैन"],
+        "stopwords_removed": ["उत्पादन", "राम्रो", "छैन", "अलिकति", "पनि", "सन्तुष्ट", "छैन"],
+        "insignificant_words_removed": ["उत्पादन", "राम्रो", "छैन", "अलिकति", "सन्तुष्ट", "छैन"],
+        "stemmed": ["उत्पादन", "राम्रो", "छैन", "अलिकति", "सन्तुष्ट", "छैन"],
+        "unicode_normalized": "उत्पादन राम्रो छैन अलिकति सन्तुष्ट छैन"
+    },
+    "prediction": "Negative",
+    "probabilities": {
+        "Positive": 0.2,
+        "Negative": 0.8
+    },
+    "language": "Nepali"
+}

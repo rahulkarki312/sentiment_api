@@ -1,0 +1,7 @@
+To request the hosted api's endpoint (provided when api.py is run)  from a physical device:
+
+1. first need to disable firewall from: 
+
+Windows Defender Firewall > Turn Windows Defender Firewall on or off > Turn off both private and public network off (revert back to Turn on after done with the app!)
+
+2. Then connect the mobile phone to the same internet as this laptop is connected to
