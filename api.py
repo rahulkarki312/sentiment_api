@@ -113,11 +113,11 @@ def preprocess_nepali_text(text):
 
 
     # Step 2: Removing unnecessary punctuation
-   # text_no_punctuation = re.sub(r'[!|।]+', '', text_cleaned)
+    #text_no_punctuation = re.sub(r'[!|।]+', '', text_cleaned)
     #steps['punctuation_removed'] = text_no_punctuation
 
     # Step 3: Exclude Nepali numbers
-    text_no_numbers = re.sub(r'[१२३४५६७८९०]', '', text_no_punctuation)
+    text_no_numbers = re.sub(r'[१२३४५६७८९०]', '', text_cleaned)
     steps['nepali_numbers_removed'] = text_no_numbers
 
     # Step 4: Tokenization
