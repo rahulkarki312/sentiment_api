@@ -1,0 +1,32 @@
+
+For each case, applying an 80-20 split with train_test_split:
+
+Nepali Dataset: Nepali Language Sentiment Analysis - Movie Reviews
+
+link: https://www.kaggle.com/datasets/shikharghimire/nepali-language-sentiment-analysis-movie-reviews
+
+For 603 rows:
+
+Training set: 
+603×0.8=482.4≈482
+603×0.8=482.4≈482 rows
+
+Testing set: 
+603×0.2=120.6≈121
+603×0.2=120.6≈121 rows
+
+So, 482 rows for training and 121 rows for testing.
+
+English Dataset: Amazon Reviews for Sentiment Analysis
+
+link: https://www.kaggle.com/datasets/bittlingmayer/amazonreviews
+
+Using 50,000 sample set rows:
+
+Training set: 
+50000×0.8=40000
+50000×0.8=40000 rows
+Testing set: 50000×0.2= 10000
+50000×0.2=10000 rows
+
+So, 40,000 rows for training and 10,000 rows for testing.
